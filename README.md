@@ -1,0 +1,1 @@
+The project is about answering math questions like plus, minus, multiplication and division. you can turn the music on and off. And there is a cute puppy that will encourege you always. There is a counter that count how many you answered right or wrong. the numbers are randomly generated between 0 and 100.
